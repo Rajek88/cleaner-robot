@@ -32,9 +32,13 @@ button {
 
 .updir {
   width: 200px;
-  height: 150px;
+  /* height: 150px; */
   display: flex;
   flex-direction: column;
   justify-content: space-between;
   align-items: center;
+}
+
+.updir button {
+  margin-bottom: 20px;
 }

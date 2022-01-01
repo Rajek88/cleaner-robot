@@ -76,6 +76,12 @@ function App() {
     return;
   };
 
+  const stop = async () => {
+    await set(ref(database, "x/"), {
+      cmd: "false",
+    });
+  };
+
   return (
     <div className="App">
       <div className="leftdir">
@@ -89,6 +95,9 @@ function App() {
       <div className="updir">
         <button onClick={forward}>
           <i className="fas fa-arrow-up"></i>
+        </button>
+        <button onClick={stop}>
+          <i class="fas fa-stop-circle"></i>
         </button>
         <button onClick={backward}>
           <i className="fas fa-arrow-down"></i>
