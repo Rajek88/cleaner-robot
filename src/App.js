@@ -10,7 +10,7 @@ function App() {
     // to execute a funtion after a delay dont pass the () with function name
     setTimeout(() => {
       disableLeft();
-    }, 1000);
+    }, 300);
     return;
   };
   const disableLeft = async () => {
@@ -27,7 +27,7 @@ function App() {
     // to execute a funtion after a delay dont pass the () with function name
     setTimeout(() => {
       disableRight();
-    }, 1000);
+    }, 300);
     return;
   };
   const disableRight = async () => {
@@ -47,7 +47,7 @@ function App() {
     // to execute a funtion after a delay dont pass the () with function name
     setTimeout(() => {
       disableForward();
-    }, 7000);
+    }, 800);
     return;
   };
   const disableForward = async () => {
@@ -65,7 +65,7 @@ function App() {
     // to execute a funtion after a delay dont pass the () with function name
     setTimeout(() => {
       disableBackward();
-    }, 2000);
+    }, 500);
     return;
   };
   const disableBackward = async () => {
