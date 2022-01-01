@@ -1,0 +1,2 @@
+#root{justify-content:center;min-height:90vh}#root,.App{align-items:center;display:flex;width:100%}.App{justify-content:space-between}button{background-color:#8a2be2;border-radius:30px;color:#fff;height:50px;width:50px}.leftdir{flex-direction:row;margin-left:50px;width:150px}.leftdir,.updir{align-items:center;display:flex;justify-content:space-between}.updir{flex-direction:column;width:200px}.updir button{margin-bottom:20px}
+/*# sourceMappingURL=main.6c4fb40f.css.map*/

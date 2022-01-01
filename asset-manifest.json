@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/robotcleaner/static/css/main.477a3129.css",
-    "main.js": "/robotcleaner/static/js/main.0d3645a2.js",
+    "main.css": "/robotcleaner/static/css/main.6c4fb40f.css",
+    "main.js": "/robotcleaner/static/js/main.471cf283.js",
     "index.html": "/robotcleaner/index.html",
-    "main.477a3129.css.map": "/robotcleaner/static/css/main.477a3129.css.map",
-    "main.0d3645a2.js.map": "/robotcleaner/static/js/main.0d3645a2.js.map"
+    "main.6c4fb40f.css.map": "/robotcleaner/static/css/main.6c4fb40f.css.map",
+    "main.471cf283.js.map": "/robotcleaner/static/js/main.471cf283.js.map"
   },
   "entrypoints": [
-    "static/css/main.477a3129.css",
-    "static/js/main.0d3645a2.js"
+    "static/css/main.6c4fb40f.css",
+    "static/js/main.471cf283.js"
   ]
 }
