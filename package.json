@@ -1,6 +1,6 @@
 {
-  "homepage": "http://rajek88.github.io/sprayer",
-  "name": "controller",
+  "homepage": "http://rajek88.github.io/robotcleaner",
+  "name": "robotcleaner",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
