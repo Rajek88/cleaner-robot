@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/robotcleaner/static/css/main.477a3129.css",
+    "main.js": "/robotcleaner/static/js/main.a4a1f6e2.js",
+    "index.html": "/robotcleaner/index.html",
+    "main.477a3129.css.map": "/robotcleaner/static/css/main.477a3129.css.map",
+    "main.a4a1f6e2.js.map": "/robotcleaner/static/js/main.a4a1f6e2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.477a3129.css",
+    "static/js/main.a4a1f6e2.js"
+  ]
+}
