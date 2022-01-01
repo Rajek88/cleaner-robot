@@ -97,7 +97,7 @@ function App() {
           <i className="fas fa-arrow-up"></i>
         </button>
         <button onClick={stop}>
-          <i class="fas fa-stop-circle"></i>
+          <i className="fas fa-stop-circle"></i>
         </button>
         <button onClick={backward}>
           <i className="fas fa-arrow-down"></i>
