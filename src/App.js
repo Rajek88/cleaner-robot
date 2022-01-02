@@ -47,7 +47,7 @@ function App() {
     // to execute a funtion after a delay dont pass the () with function name
     setTimeout(() => {
       disableForward();
-    }, 800);
+    }, 4000);
     return;
   };
   const disableForward = async () => {
@@ -65,7 +65,7 @@ function App() {
     // to execute a funtion after a delay dont pass the () with function name
     setTimeout(() => {
       disableBackward();
-    }, 500);
+    }, 4000);
     return;
   };
   const disableBackward = async () => {
