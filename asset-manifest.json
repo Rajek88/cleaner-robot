@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/robotcleaner/static/css/main.6c4fb40f.css",
-    "main.js": "/robotcleaner/static/js/main.471cf283.js",
+    "main.js": "/robotcleaner/static/js/main.7da2a14d.js",
     "index.html": "/robotcleaner/index.html",
     "main.6c4fb40f.css.map": "/robotcleaner/static/css/main.6c4fb40f.css.map",
-    "main.471cf283.js.map": "/robotcleaner/static/js/main.471cf283.js.map"
+    "main.7da2a14d.js.map": "/robotcleaner/static/js/main.7da2a14d.js.map"
   },
   "entrypoints": [
     "static/css/main.6c4fb40f.css",
-    "static/js/main.471cf283.js"
+    "static/js/main.7da2a14d.js"
   ]
 }
